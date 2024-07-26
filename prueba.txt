@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 el conejito esta enamorado de jhanita, y van pasear al parque de las aguas
+=======
+el conejito esta enamorado de jhanita. vamos a ir a larcomar
+>>>>>>> d_pro01
